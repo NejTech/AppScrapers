@@ -18,18 +18,18 @@ Python 2.7 and BeautifulSoup. That's it!
 
 ### Windows Store Scraper
 
-Accepts the GUID found in Windows Store links as the [appid]
+Accepts the GUID found in Windows Store links as the [appid]<br />
+e.g. ht&#8203;tp://apps.microsoft.com/windows/en-us/app/**b188f2d6-ba88-47a3-b5f1-5823dd67146e**
 
-e.g. http&#58;//apps.microsoft.com/windows/en-us/app/**b188f2d6-ba88-47a3-b5f1-5823dd67146e**
-
-Accepts Microsoft locales for setting the store language.
-
+Accepts Microsoft locales for setting the store language.<br />
 List can be found here: [MSDN](http://msdn.microsoft.com/en-us/library/ee825488.aspx)
 
 ### Google Play Scraper
 
-Accepts the Android package names as the [appid]
-eg. http&#58;//play.google.com/store/apps/details?id=**cz.nature.biolog**&hl=en
+Accepts the Android package names as the [appid]<br/>
+eg. ht&#8203;tp://play.google.com/store/apps/details?id=**cz.nature.biolog**&hl=en
+
+Accepts ISO 639-1 codes for setting the store language.
 
 ### App Store Scraper?
 
